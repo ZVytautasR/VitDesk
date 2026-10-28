@@ -8,11 +8,9 @@
 
 ![Platform](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2.6.0-4CAF50?style=for-the-badge)
 
-[📥 Скачать](#-установка) • [✨ Возможности](#-возможности) • [🧩 Компоненты](#-компоненты) • [🛠 Сборка](#-сборка-из-исходников)
+[📥 Скачать](#-установка) • [✨ Возможности](#-возможности) • [🚀 Как это работает](#-как-это-работает)
 
 </div>
 
@@ -48,34 +46,26 @@ VitDesk соединяет ваше текущее устройство с те�
 > [!TIP]
 > Чтобы подключиться, сообщите партнёру свой **ID** — и примите входящий запрос.
 
-## 🧩 Компоненты
+## 🚀 Как это работает
 
-```
-VitDesk           — основной клиент (просмотр и управление)
-VitDeskHub        — сервер-координатор: ID, контакты, облако
-VitDeskDispatch   — диспетчер подключений
-VitDeskFix        — утилита диагностики и восстановления
-android/          — мобильный клиент на Flutter
-```
+Всё просто, как в AnyDesk: установка и настройка сети не нужны.
 
-## 🛠 Сборка из исходников
+1. **Запустите VitDesk** на обоих устройствах — каждому сразу присваивается свой **ID**.
+2. **Сообщите ID** тому, кто будет подключаться (или введите ID партнёра сами).
+3. **Подтвердите входящий запрос** — и вы на связи: экран, мышь, клавиатура, файлы и чат.
 
-**Windows:** откройте `VitDesk.groupproj` в RAD Studio (Delphi) и соберите все проекты (`Win32`).
+> [!NOTE]
+> Для постоянного доступа без подтверждения задайте пароль — и подключайтесь к своему компьютеру из любой точки мира.
 
-**Android:**
-```bash
-cd android
-flutter pub get
-flutter build apk --release
-```
+### 🎯 Для чего подходит
 
-## 🙌 Благодарности
-
-- [Opus](https://opus-codec.org/) — аудиокодек
-- [OpenH264](https://www.openh264.org/) — видеокодек
+- 🧑‍💻 **Помощь близким и коллегам** — разберитесь с проблемой, не выходя из дома
+- 🏢 **Техподдержка и IT‑администрирование** — обслуживайте парк компьютеров
+- 🏠 **Доступ к своему ПК** — с ноутбука или телефона, где бы вы ни были
+- 📱 **Управление с Android** — компьютер всегда в кармане
 
 <div align="center">
 
-Сделано с ❤️ на Delphi и Flutter • © ZVytautasR
+© ZVytautasR • VitDesk
 
 </div>
