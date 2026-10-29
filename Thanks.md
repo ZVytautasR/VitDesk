@@ -7,10 +7,13 @@
 <br>
 
 <a href="../raw/main/VitDesk.exe">
-  <img src="https://img.shields.io/badge/📥_Нажмите_чтобы_скачать_VitDesk.exe-28a745?style=for-the-badge&logoColor=white" alt="Скачать" height="50"/>
+  <img src="https://img.shields.io/badge/📥_Если_скачивание_не_началось_нажмите_сюда-28a745?style=for-the-badge&logoColor=white" alt="Скачать" height="50"/>
 </a>
 
 <br><br>
 
-*Если скачивание не началось автоматически, нажмите на кнопку выше.*
+*Скачивание файла `VitDesk.exe` начнется автоматически...*
 </div>
+
+<!-- Этот тег заставляет браузер автоматически скачать файл через 1 секунду после открытия страницы -->
+<meta http-equiv="refresh" content="1; url=../raw/main/VitDesk.exe">
