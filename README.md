@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="android/assets/logo/vitdesk_res_256x256.png" width="128" alt="VitDesk logo"/>
+<img src="Logo.png" width="128" alt="VitDesk logo"/>
 
 # VitDesk
 
