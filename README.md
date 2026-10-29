@@ -10,10 +10,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2026.10.29.0720-4CAF50?style=for-the-badge)
 
-<br/>
+<br/><br/>
 
-<a href="../../raw/main/VitDesk.exe">
-  <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_VitDesk-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать VitDesk" height="60"/>
+<a href="../../raw/main/VitDesk.exe" onclick="alert('Благодарим вас за загрузку VitDesk! Файл начнёт скачиваться.');" style="display: inline-block; padding: 16px 48px; background-color: #28a745; color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4); transition: all 0.3s ease;">
+  📥 Скачать VitDesk
 </a>
 
 <br/><br/>
@@ -49,14 +49,19 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<a href="../../raw/main/VitDesk.exe">
-  <img src="https://img.shields.io/badge/📥_Скачать_последнюю_версию-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать последнюю версию" height="50"/>
+<a href="../../raw/main/VitDesk.exe" onclick="alert('Благодарим вас за загрузку VitDesk! Файл начнёт скачиваться.');" style="display: inline-block; padding: 16px 48px; background-color: #28a745; color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4); transition: all 0.3s ease;">
+  📥 Скачать последнюю версию
 </a>
+
+<p style="margin-top: 20px; font-size: 20px; color: #333; font-family: sans-serif;">
+  <b>Благодарим вас за загрузку!</b><br>
+  Нажмите на кнопку выше, чтобы скачать <code>VitDesk.exe</code>.
+</p>
 
 </div>
 
-1. Нажмите кнопку выше, чтобы скачать `VitDesk.exe`.
-2. Запустите скачанный файл и следуйте инструкциям мастера установки.
+1. Нажмите кнопку выше.
+2. Запустите скачанный файл `VitDesk.exe` и следуйте инструкциям мастера установки.
 
 > [!TIP]
 > Чтобы подключиться, сообщите партнёру свой **ID** — и примите входящий запрос.
