@@ -12,8 +12,7 @@
 
 <br/><br/>
 
-<!-- Замените ссылку ниже на вашу из GitHub Pages -->
-<a href="https://ZVYtautasR.github.io/VitDesk/download.html">
+<a href="Thanks.md">
   <img src="https://img.shields.io/badge/-📥_СКАЧАТЬ_VITDESK-28a745?style=for-the-badge&logoColor=white&labelColor=28a745&color=28a745" alt="Скачать VitDesk" height="60" />
 </a>
 
@@ -50,7 +49,7 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<a href="https://ZVYtautasR.github.io/VitDesk/download.html">
+<a href="Thanks.md">
   <img src="https://img.shields.io/badge/-📥_Скачать_последнюю_версию-218838?style=for-the-badge&logoColor=white&labelColor=218838&color=218838" alt="Скачать последнюю версию" height="50" />
 </a>
 
