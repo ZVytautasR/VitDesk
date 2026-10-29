@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="../../releases/latest">
+<a href="../../raw/main/VitDesk.exe">
   <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_VitDesk-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать VitDesk" height="60"/>
 </a>
 
@@ -49,15 +49,14 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<a href="../../releases/latest">
+<a href="../../raw/main/VitDesk.exe">
   <img src="https://img.shields.io/badge/📥_Скачать_последнюю_версию-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать последнюю версию" height="50"/>
 </a>
 
 </div>
 
-1. Нажмите кнопку выше (или откройте раздел **[Releases](../../releases)**).
-2. Скачайте последнюю версию `VitDesk.exe` (Windows) или APK (Android).
-3. Запустите и следуйте инструкциям мастера установки.
+1. Нажмите кнопку выше, чтобы скачать `VitDesk.exe`.
+2. Запустите скачанный файл и следуйте инструкциям мастера установки.
 
 > [!TIP]
 > Чтобы подключиться, сообщите партнёру свой **ID** — и примите входящий запрос.
