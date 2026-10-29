@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<!-- Кнопка сделана через генератор картинок, поэтому она будет закругленной и красивой всегда -->
-<a href="Thanks.md">
-  <img src="https://img.shields.io/badge/-📥_СКАЧАТЬ_VITDESK-28a745?style=for-the-badge&logoColor=white&labelColor=28a745&color=28a745" alt="Скачать VitDesk" height="60" style="border-radius: 50px;" />
+<!-- Замените ссылку ниже на вашу из GitHub Pages -->
+<a href="https://ZVYtautasR.github.io/VitDesk/download.html">
+  <img src="https://img.shields.io/badge/-📥_СКАЧАТЬ_VITDESK-28a745?style=for-the-badge&logoColor=white&labelColor=28a745&color=28a745" alt="Скачать VitDesk" height="60" />
 </a>
 
 <br/><br/>
@@ -50,19 +50,19 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<a href="Thanks.md">
+<a href="https://ZVYtautasR.github.io/VitDesk/download.html">
   <img src="https://img.shields.io/badge/-📥_Скачать_последнюю_версию-218838?style=for-the-badge&logoColor=white&labelColor=218838&color=218838" alt="Скачать последнюю версию" height="50" />
 </a>
 
 <p style="margin-top: 15px; font-size: 18px;">
   <b>Благодарим вас за загрузку!</b><br>
-  Нажмите на кнопку выше, чтобы перейти на страницу скачивания файла <code>VitDesk.exe</code>.
+  Нажмите на кнопку выше, чтобы начать скачивание файла <code>VitDesk.exe</code>.
 </p>
 
 </div>
 
 1. Нажмите кнопку выше.
-2. На открывшейся странице нажмите «Скачать», чтобы получить файл `VitDesk.exe`.
+2. Дождитесь автоматического скачивания файла `VitDesk.exe`.
 3. Запустите файл и следуйте инструкциям мастера установки.
 
 > [!TIP]
