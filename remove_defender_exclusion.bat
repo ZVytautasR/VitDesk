@@ -1,30 +1,30 @@
 @echo off
 chcp 1251 >nul
 rem ================================================================
-rem  remove_defender_exclusion.bat - удаление исключений Windows Defender для VitDesk.
-rem  Папка VitDesk = папка этого батника, плюс %ProgramData%\VitDesk
-rem  и процесс VitDesk.exe. Запускается пользователем вручную (нужен UAC).
+rem  remove_defender_exclusion.bat - СѓРґР°Р»РµРЅРёРµ РёСЃРєР»СЋС‡РµРЅРёР№ Windows Defender РґР»СЏ VitDesk.
+rem  РџР°РїРєР° VitDesk = РїР°РїРєР° СЌС‚РѕРіРѕ Р±Р°С‚РЅРёРєР°, РїР»СЋСЃ %ProgramData%\VitDesk
+rem  Рё РїСЂРѕС†РµСЃСЃ VitDesk.exe. Р—Р°РїСѓСЃРєР°РµС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј РІСЂСѓС‡РЅСѓСЋ (РЅСѓР¶РµРЅ UAC).
 rem ================================================================
 setlocal EnableExtensions
 net session >nul 2>&1
 if errorlevel 1 (
-  echo Нужны права администратора - запрашиваю UAC...
+  echo РќСѓР¶РЅС‹ РїСЂР°РІР° Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР° - Р·Р°РїСЂР°С€РёРІР°СЋ UAC...
   powershell -NoProfile -Command "Start-Process -FilePath '%~f0' -Verb RunAs"
   exit /b
 )
 set "DIR=%~dp0"
 if "%DIR:~-1%"=="\" set "DIR=%DIR:~0,-1%"
 set "DATA=%ProgramData%\VitDesk"
-echo Удаление исключений Windows Defender:
-echo   папка   : %DIR%
-echo   папка   : %DATA%
-echo   процесс : VitDesk.exe
+echo РЈРґР°Р»РµРЅРёРµ РёСЃРєР»СЋС‡РµРЅРёР№ Windows Defender:
+echo   РїР°РїРєР°   : %DIR%
+echo   РїР°РїРєР°   : %DATA%
+echo   РїСЂРѕС†РµСЃСЃ : VitDesk.exe
 echo.
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
-  "$ok=$true; foreach($p in @($env:DIR,$env:DATA)){ try { Remove-MpPreference -ExclusionPath $p -ErrorAction Stop; Write-Host ('  OK    путь    ' + $p) } catch { $ok=$false; Write-Host ('  ОШИБКА путь   ' + $p + ' : ' + $_.Exception.Message) } };" ^
-  "try { Remove-MpPreference -ExclusionProcess 'VitDesk.exe' -ErrorAction Stop; Write-Host '  OK    процесс VitDesk.exe' } catch { $ok=$false; Write-Host ('  ОШИБКА процесс VitDesk.exe : ' + $_.Exception.Message) };" ^
-  "Write-Host ''; $m=Get-MpPreference -ErrorAction SilentlyContinue; if($m){ Write-Host 'Сейчас в исключениях:'; $m.ExclusionPath | Where-Object { $_ -like '*VitDesk*' -or $_ -eq $env:DIR } | ForEach-Object { Write-Host ('  ' + $_) }; $m.ExclusionProcess | Where-Object { $_ -like '*VitDesk*' } | ForEach-Object { Write-Host ('  ' + $_) } };" ^
-  "if(-not $ok){ Write-Host ''; Write-Host 'Часть не выполнена: Defender отключён/другой антивирус или включена Защита от подделки (Tamper Protection).'; exit 1 }"
+  "$ok=$true; foreach($p in @($env:DIR,$env:DATA)){ try { Remove-MpPreference -ExclusionPath $p -ErrorAction Stop; Write-Host ('  OK    РїСѓС‚СЊ    ' + $p) } catch { $ok=$false; Write-Host ('  РћРЁРР‘РљРђ РїСѓС‚СЊ   ' + $p + ' : ' + $_.Exception.Message) } };" ^
+  "try { Remove-MpPreference -ExclusionProcess 'VitDesk.exe' -ErrorAction Stop; Write-Host '  OK    РїСЂРѕС†РµСЃСЃ VitDesk.exe' } catch { $ok=$false; Write-Host ('  РћРЁРР‘РљРђ РїСЂРѕС†РµСЃСЃ VitDesk.exe : ' + $_.Exception.Message) };" ^
+  "Write-Host ''; $m=Get-MpPreference -ErrorAction SilentlyContinue; if($m){ Write-Host 'РЎРµР№С‡Р°СЃ РІ РёСЃРєР»СЋС‡РµРЅРёСЏС…:'; $m.ExclusionPath | Where-Object { $_ -like '*VitDesk*' -or $_ -eq $env:DIR } | ForEach-Object { Write-Host ('  ' + $_) }; $m.ExclusionProcess | Where-Object { $_ -like '*VitDesk*' } | ForEach-Object { Write-Host ('  ' + $_) } };" ^
+  "if(-not $ok){ Write-Host ''; Write-Host 'Р§Р°СЃС‚СЊ РЅРµ РІС‹РїРѕР»РЅРµРЅР°: Defender РѕС‚РєР»СЋС‡С‘РЅ/РґСЂСѓРіРѕР№ Р°РЅС‚РёРІРёСЂСѓСЃ РёР»Рё РІРєР»СЋС‡РµРЅР° Р—Р°С‰РёС‚Р° РѕС‚ РїРѕРґРґРµР»РєРё (Tamper Protection).'; exit 1 }"
 echo.
-if errorlevel 1 (echo [!] Готово с ошибками.) else (echo [ГОТОВО] Удаление выполнено.)
+if errorlevel 1 (echo [!] Р“РѕС‚РѕРІРѕ СЃ РѕС€РёР±РєР°РјРё.) else (echo [Р“РћРўРћР’Рћ] РЈРґР°Р»РµРЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ.)
 pause
