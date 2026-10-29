@@ -10,7 +10,15 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2026.10.29.0720-4CAF50?style=for-the-badge)
 
-[📥 Скачать](#-установка) • [✨ Возможности](#-возможности) • [🚀 Как это работает](#-как-это-работает)
+<br/>
+
+<a href="../../releases/latest">
+  <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_VitDesk-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать VitDesk" height="60"/>
+</a>
+
+<br/><br/>
+
+[✨ Возможности](#-возможности) • [🚀 Как это работает](#-как-это-работает)
 
 </div>
 
@@ -39,7 +47,15 @@ VitDesk соединяет ваше текущее устройство с те�
 
 ## 📥 Установка
 
-1. Откройте раздел **[Releases](../../releases)**.
+<div align="center">
+
+<a href="../../releases/latest">
+  <img src="https://img.shields.io/badge/📥_Скачать_последнюю_версию-4CAF50?style=for-the-badge&logoColor=white" alt="Скачать последнюю версию" height="50"/>
+</a>
+
+</div>
+
+1. Нажмите кнопку выше (или откройте раздел **[Releases](../../releases)**).
 2. Скачайте последнюю версию `VitDesk.exe` (Windows) или APK (Android).
 3. Запустите и следуйте инструкциям мастера установки.
 
