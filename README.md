@@ -10,20 +10,14 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2026.10.29.0720-4CAF50?style=for-the-badge)
 
-<br/>
+<br/><br/>
 
-<!-- Кнопка, оформленная через таблицу (GitHub её не вырезает) -->
-<table align="center" border="0" cellpadding="15" cellspacing="0" style="background-color: #28a745; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-  <tr>
-    <td align="center">
-      <a href="Спасибо.md" style="color: white; text-decoration: none; font-size: 20px; font-weight: bold;">
-        📥 Скачать VitDesk
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Кнопка сделана через генератор картинок, поэтому она будет закругленной и красивой всегда -->
+<a href="Thanks.md">
+  <img src="https://img.shields.io/badge/-📥_СКАЧАТЬ_VITDESK-28a745?style=for-the-badge&logoColor=white&labelColor=28a745&color=28a745" alt="Скачать VitDesk" height="60" style="border-radius: 50px;" />
+</a>
 
-<br/>
+<br/><br/>
 
 [✨ Возможности](#-возможности) • [🚀 Как это работает](#-как-это-работает)
 
@@ -56,16 +50,9 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<!-- Кнопка установки -->
-<table align="center" border="0" cellpadding="12" cellspacing="0" style="background-color: #218838; border-radius: 10px;">
-  <tr>
-    <td align="center">
-      <a href="Спасибо.md" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold;">
-        📥 Перейти к скачиванию
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="Thanks.md">
+  <img src="https://img.shields.io/badge/-📥_Скачать_последнюю_версию-218838?style=for-the-badge&logoColor=white&labelColor=218838&color=218838" alt="Скачать последнюю версию" height="50" />
+</a>
 
 <p style="margin-top: 15px; font-size: 18px;">
   <b>Благодарим вас за загрузку!</b><br>
