@@ -10,13 +10,20 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2026.10.29.0720-4CAF50?style=for-the-badge)
 
-<br/><br/>
+<br/>
 
-<a href="../../raw/main/VitDesk.exe" onclick="alert('Благодарим вас за загрузку VitDesk! Файл начнёт скачиваться.');" style="display: inline-block; padding: 16px 48px; background-color: #28a745; color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4); transition: all 0.3s ease;">
-  📥 Скачать VitDesk
-</a>
+<!-- Кнопка, оформленная через таблицу (GitHub её не вырезает) -->
+<table align="center" border="0" cellpadding="15" cellspacing="0" style="background-color: #28a745; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <tr>
+    <td align="center">
+      <a href="Спасибо.md" style="color: white; text-decoration: none; font-size: 20px; font-weight: bold;">
+        📥 Скачать VitDesk
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 [✨ Возможности](#-возможности) • [🚀 Как это работает](#-как-это-работает)
 
@@ -49,19 +56,27 @@ VitDesk соединяет ваше текущее устройство с те�
 
 <div align="center">
 
-<a href="../../raw/main/VitDesk.exe" onclick="alert('Благодарим вас за загрузку VitDesk! Файл начнёт скачиваться.');" style="display: inline-block; padding: 16px 48px; background-color: #28a745; color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4); transition: all 0.3s ease;">
-  📥 Скачать последнюю версию
-</a>
+<!-- Кнопка установки -->
+<table align="center" border="0" cellpadding="12" cellspacing="0" style="background-color: #218838; border-radius: 10px;">
+  <tr>
+    <td align="center">
+      <a href="Спасибо.md" style="color: white; text-decoration: none; font-size: 18px; font-weight: bold;">
+        📥 Перейти к скачиванию
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p style="margin-top: 20px; font-size: 20px; color: #333; font-family: sans-serif;">
+<p style="margin-top: 15px; font-size: 18px;">
   <b>Благодарим вас за загрузку!</b><br>
-  Нажмите на кнопку выше, чтобы скачать <code>VitDesk.exe</code>.
+  Нажмите на кнопку выше, чтобы перейти на страницу скачивания файла <code>VitDesk.exe</code>.
 </p>
 
 </div>
 
 1. Нажмите кнопку выше.
-2. Запустите скачанный файл `VitDesk.exe` и следуйте инструкциям мастера установки.
+2. На открывшейся странице нажмите «Скачать», чтобы получить файл `VitDesk.exe`.
+3. Запустите файл и следуйте инструкциям мастера установки.
 
 > [!TIP]
 > Чтобы подключиться, сообщите партнёру свой **ID** — и примите входящий запрос.
