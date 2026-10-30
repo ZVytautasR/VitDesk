@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Logo.png" width="128" alt="VitDesk logo"/>
+<img src="https://raw.githubusercontent.com/ZVytautasR/VitDesk/cfg/Logo.png" width="128" alt="VitDesk logo"/>
 
 # VitDesk
 
@@ -8,7 +8,7 @@
 
 ![Platform](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/version-2026.10.30.0835-4CAF50?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2026.10.30.0920-4CAF50?style=for-the-badge)
 
 <br/><br/>
 
