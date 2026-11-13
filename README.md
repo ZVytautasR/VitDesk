@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/Windows-1E5FD8?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Android-22C3EE?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/версия-2026.11.13.2205-3B82F6?style=flat-square" alt="Версия"/>
+<img src="https://img.shields.io/badge/версия-2026.11.13.2217-3B82F6?style=flat-square" alt="Версия"/>
 <img src="https://img.shields.io/badge/шифрование-сквозное-0EA5E9?style=flat-square&logo=letsencrypt&logoColor=white" alt="Шифрование"/>
 
 <br/><br/>
