@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/версия-2026.11.13.2217-2563EB?style=flat-square&labelColor=0C1E43" alt="Версия"/>
+<img src="https://img.shields.io/badge/версия-2026.11.14.1301-2563EB?style=flat-square&labelColor=0C1E43" alt="Версия"/>
 <img src="https://img.shields.io/badge/Windows%2010%20·%2011-1B3F96?style=flat-square&logo=windows&logoColor=white&labelColor=0C1E43" alt="Windows"/>
 <img src="https://img.shields.io/badge/шифрование-сквозное-1E40AF?style=flat-square&labelColor=0C1E43" alt="Сквозное шифрование"/>
 <img src="https://img.shields.io/badge/цена-бесплатно-0E7490?style=flat-square&labelColor=0C1E43" alt="Бесплатно"/>
