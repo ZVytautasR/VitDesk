@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/thanks.png" alt="Спасибо за загрузку" width="100%"/>
+<img src="assets/thanks.png" alt="Спасибо за загрузку — файл VitDesk.exe уже скачивается" width="100%"/>
 
 <br/><br/>
 
@@ -8,21 +8,11 @@
 
 <br/><br/>
 
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center"><b>1</b><br/><sub>Запустите скачанный<br/><code>VitDesk.exe</code></sub></td>
-<td width="33%" align="center"><b>2</b><br/><sub>Пройдите несколько шагов<br/>мастера установки</sub></td>
-<td width="33%" align="center"><b>3</b><br/><sub>Программа покажет ваш <b>ID</b> —<br/>его и сообщают партнёру</sub></td>
-</tr>
-</table>
+<img src="assets/thanks_steps.png" alt="1. Запустите скачанный VitDesk.exe. 2. Пройдите мастер установки. 3. Программа покажет ваш ID." width="100%"/>
 
 <br/>
 
-<div align="center">
-
-**[← Вернуться на главную](README.md)**
+<a href="README.md"><b>← Вернуться на главную</b></a>
 
 <br/>
 
