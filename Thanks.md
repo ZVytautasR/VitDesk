@@ -1,24 +1,32 @@
 <div align="center">
 
-# 🎉 Благодарим вас за загрузку!
+<img src="assets/thanks.png" alt="Спасибо за загрузку" width="100%"/>
 
-Вы выбрали **VitDesk** — быстрый и безопасный удалённый доступ.
+<br/><br/>
 
-<br>
+<a href="https://github.com/ZVytautasR/VitDesk/raw/main/VitDesk.exe" download><img src="https://img.shields.io/badge/Нажмите,%20если%20загрузка%20не%20началась-4E95F5?style=for-the-badge&labelColor=1B3F96" alt="Скачать VitDesk" height="54"/></a>
 
-<a href="https://github.com/ZVytautasR/VitDesk/raw/main/VitDesk.exe" download>
-  <img src="https://img.shields.io/badge/📥_Нажмите_сюда_если_скачивание_не_началось-28a745?style=for-the-badge&logoColor=white" alt="Скачать" height="50"/>
-</a>
+<br/><br/>
 
-<br><br>
+</div>
 
-*Скачивание файла `VitDesk.exe` начнется автоматически...*
+<table>
+<tr>
+<td width="33%" align="center"><b>1</b><br/><sub>Запустите скачанный<br/><code>VitDesk.exe</code></sub></td>
+<td width="33%" align="center"><b>2</b><br/><sub>Пройдите несколько шагов<br/>мастера установки</sub></td>
+<td width="33%" align="center"><b>3</b><br/><sub>Программа покажет ваш <b>ID</b> —<br/>его и сообщают партнёру</sub></td>
+</tr>
+</table>
 
-<br><br>
+<br/>
 
----
+<div align="center">
 
-**Автор и разработчик:** Витаутас Жаситис
+**[← Вернуться на главную](README.md)**
+
+<br/>
+
+<sub>© ZVytautasR · VitDesk · Автор и разработчик — Витаутас Жаситис</sub>
 
 </div>
 
