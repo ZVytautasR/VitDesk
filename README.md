@@ -1,143 +1,147 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="VitDesk — удалённый доступ к компьютеру" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/ZVytautasR/VitDesk/cfg/Logo.png" width="96" alt="VitDesk logo"/>
-
-# VitDesk
-
-### Быстрый и безопасный удалённый доступ к вашим компьютерам — с Windows и Android
-
-<br/>
-
-<a href="Thanks.md"><img src="https://img.shields.io/badge/📥%20%20СКАЧАТЬ%20VITDESK-1E5FD8?style=for-the-badge&labelColor=1E5FD8" alt="Скачать VitDesk" height="64"/></a>
+<img src="assets/banner.png" alt="VitDesk — удалённый доступ к компьютерам" width="100%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Windows-1E5FD8?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Android-22C3EE?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/версия-2026.11.13.2217-3B82F6?style=flat-square" alt="Версия"/>
-<img src="https://img.shields.io/badge/шифрование-сквозное-0EA5E9?style=flat-square&logo=letsencrypt&logoColor=white" alt="Шифрование"/>
+<a href="Thanks.md"><img src="https://img.shields.io/badge/СКАЧАТЬ%20ДЛЯ%20WINDOWS-4E95F5?style=for-the-badge&labelColor=1B3F96&logo=windows&logoColor=white" alt="Скачать VitDesk" height="56"/></a>
 
 <br/><br/>
 
-**[✨ Возможности](#-возможности)** &nbsp;·&nbsp; **[🚀 Как это работает](#-как-это-работает)** &nbsp;·&nbsp; **[📥 Установка](#-установка)** &nbsp;·&nbsp; **[🎯 Для чего](#-для-чего-подходит)**
+<img src="https://img.shields.io/badge/версия-2026.11.13.2217-2563EB?style=flat-square&labelColor=0F2347" alt="Версия"/>
+<img src="https://img.shields.io/badge/Windows-1B3F96?style=flat-square&logo=windows&logoColor=white&labelColor=0F2347" alt="Windows"/>
+<img src="https://img.shields.io/badge/Android-4E95F5?style=flat-square&logo=android&logoColor=white&labelColor=0F2347" alt="Android"/>
+<img src="https://img.shields.io/badge/шифрование-сквозное-1E40AF?style=flat-square&labelColor=0F2347" alt="Сквозное шифрование"/>
+
+<br/><br/>
+
+**[Возможности](#возможности)**&nbsp; · &nbsp;**[Как это работает](#как-это-работает)**&nbsp; · &nbsp;**[Установка](#установка)**&nbsp; · &nbsp;**[Кому подходит](#кому-подходит)**
 
 </div>
 
 <br/>
 
 > [!NOTE]
-> **VitDesk** соединяет ваше устройство с тем, к которому нужно подключиться: видите экран, управляете мышью и клавиатурой, передаёте файлы и общаетесь — как будто сидите рядом.
+> **VitDesk** соединяет ваше устройство с тем, к которому нужно подключиться: вы видите экран, управляете мышью и клавиатурой, передаёте файлы и общаетесь — как будто сидите рядом. Ни настройки роутера, ни белого IP не нужно.
 
 <br/>
 
-## ✨ Возможности
+## Возможности
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🖥️ Удалённый стол
-Плавная картинка с аппаратным кодированием H.264 и адаптивным битрейтом
+#### Удалённый стол
+Плавная картинка: аппаратный H.264 и адаптивный битрейт под вашу сеть
 
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Быстрое подключение
-Соединение напрямую через NAT, поиск устройств в локальной сети
+#### Быстрое подключение
+Прямое соединение через NAT и поиск устройств в локальной сети
 
 </td>
 <td width="33%" valign="top">
 
-### 🔒 Безопасность
-Сквозное шифрование, TOTP‑двухфакторка, хранилище паролей
+#### Безопасность
+Сквозное шифрование, двухфакторный вход TOTP, хранилище паролей
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 📁 Файловый менеджер
+#### Файловый менеджер
 Двухпанельный обмен файлами между компьютерами
 
 </td>
 <td valign="top">
 
-### 📋 Общий буфер
-Копируйте на одном устройстве — вставляйте на другом
+#### Общий буфер
+Копируете на одном устройстве — вставляете на другом
 
 </td>
+<td valign="top">
 
+#### Чат и звонки
+Переписка, голос и видео прямо во время сеанса
+
+</td>
+</tr>
 <tr>
 <td valign="top">
 
-### 🖨️ Удалённая печать
-Печать с удалённого компьютера на локальный принтер
+#### Удалённая печать
+Печать с удалённого компьютера на ваш локальный принтер
 
 </td>
 <td valign="top">
 
-### 🔌 USB по сети
+#### USB по сети
 Проброс USB‑устройств на удалённую машину
 
 </td>
 <td valign="top">
 
-### 🎥 Запись сессий
-Сохраняйте сеансы для отчётов и обучения
+#### Запись сеансов
+Сохраняйте подключения для отчётов и обучения
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 📒 Адресная книга
+#### Адресная книга
 Группы, карточки устройств, облачная синхронизация
 
 </td>
 <td valign="top">
 
-### 🌙 Wake‑on‑LAN
-Разбудите спящий компьютер одним кликом
+#### Wake‑on‑LAN
+Разбудите спящий компьютер одним нажатием
 
 </td>
+<td valign="top">
 
+#### Диагностика
+Сканер сети, скорость канала, состояние дисков и батареи
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## 🚀 Как это работает
-
-Установка сложной сети не нужна — три шага:
+## Как это работает
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-<h1>1️⃣</h1>
+### 1
 
-**Запустите VitDesk**<br/>
-на обоих устройствах — каждому сразу присваивается свой **ID**
+**Запустите VitDesk**
 
-</td>
-<td width="33%" align="center" valign="top">
-
-<h1>2️⃣</h1>
-
-**Сообщите ID**<br/>
-тому, кто будет подключаться, или введите ID партнёра сами
+На обоих устройствах. Каждому сразу присваивается свой **ID**.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-<h1>3️⃣</h1>
+### 2
 
-**Подтвердите запрос**<br/>
-и вы на связи: экран, мышь, клавиатура, файлы и чат
+**Обменяйтесь ID**
+
+Сообщите свой номер тому, кто подключается, или введите номер партнёра.
+
+</td>
+<td width="33%" valign="top">
+
+### 3
+
+**Подтвердите запрос**
+
+И вы на связи: экран, мышь, клавиатура, файлы и чат.
 
 </td>
 </tr>
@@ -148,21 +152,25 @@
 
 <br/>
 
-## 📥 Установка
+## Установка
 
-1. Нажмите кнопку **«Скачать»** ниже.
-2. Дождитесь скачивания файла `VitDesk.exe`.
-3. Запустите файл и следуйте инструкциям мастера установки.
+1. Нажмите кнопку **«Скачать»** — начнётся загрузка `VitDesk.exe`.
+2. Запустите файл и следуйте шагам мастера установки.
+3. Для телефона установите приложение Android из раздела **Releases**.
 
 <div align="center">
 
-<a href="Thanks.md"><img src="https://img.shields.io/badge/📥%20%20Скачать%20последнюю%20версию-22C3EE?style=for-the-badge&labelColor=1E5FD8" alt="Скачать последнюю версию" height="56"/></a>
+<br/>
+
+<a href="Thanks.md"><img src="https://img.shields.io/badge/Скачать%20последнюю%20версию-4E95F5?style=for-the-badge&labelColor=1B3F96" alt="Скачать последнюю версию" height="52"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/ZVytautasR/VitDesk/releases"><img src="https://img.shields.io/badge/Все%20версии-0F2347?style=for-the-badge&labelColor=0F2347" alt="Все версии" height="52"/></a>
 
 </div>
 
 <br/>
 
-## 🎯 Для чего подходит
+## Кому подходит
 
 | | |
 |:---:|---|
@@ -174,6 +182,8 @@
 <br/>
 
 <div align="center">
+
+<img src="assets/logo.png" width="56" alt="VitDesk"/>
 
 <sub>Сделано с 💙 · © ZVytautasR · VitDesk</sub>
 
